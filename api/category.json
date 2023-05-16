@@ -1,14 +1,34 @@
 [
     {
         "categoryId": "1",
-        "categoryName": "Web Development"
+        "categoryName": "UX/UI Design"
     },
     {
         "categoryId": "2",
-        "categoryName": "Graphics Design"
+        "categoryName": "Development"
     },
     {
         "categoryId": "3",
-        "categoryName": "Video Editing"
+        "categoryName": "Data Science"
+    },
+    {
+        "categoryId": "4",
+        "categoryName": "Photography"
+    },
+    {
+        "categoryId": "5",
+        "categoryName": "Networking"
+    },
+    {
+        "categoryId": "6",
+        "categoryName": "Art & Design"
+    },
+    {
+        "categoryId": "7",
+        "categoryName": "Sale & Marketing"
+    },
+    {
+        "categoryId": "8",
+        "categoryName": "Finance"
     }
 ]
