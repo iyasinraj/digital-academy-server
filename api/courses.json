@@ -1,0 +1,434 @@
+[
+    {
+        "id": "1",
+        "categoryId": "1",
+        "thumbnail": "",
+        "title": "Cinematography",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "2",
+        "categoryId": "1",
+        "thumbnail": "",
+        "title": "Videography",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "3",
+        "categoryId": "1",
+        "thumbnail": "",
+        "title": "Screenwriting and Scripting",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "4",
+        "categoryId": "1",
+        "thumbnail": "",
+        "title": "Video Production",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "5",
+        "categoryId": "1",
+        "thumbnail": "",
+        "title": "Video Editing",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "6",
+        "categoryId": "1",
+        "thumbnail": "",
+        "title": "Documentary Film Making",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "7",
+        "categoryId": "1",
+        "thumbnail": "",
+        "title": "Video Lighting",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "8",
+        "categoryId": "1",
+        "thumbnail": "",
+        "title": "Digital Camera Functionality",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "9",
+        "categoryId": "1",
+        "thumbnail": "",
+        "title": "Storytelling",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "10",
+        "categoryId": "1",
+        "thumbnail": "",
+        "title": "Adobe Premiere",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "11",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "Canva",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "12",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "Graphics Design",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "13",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "Vector Graphics",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "14",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "Photoshop",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "15",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "Logo Design",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "16",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "Adobe Illustrator",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "17",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "Photoshop Retouching",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "18",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "Technical Drawing",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "19",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "Illustration",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "20",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "Design Theory",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "21",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "AI Art Generation",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "22",
+        "categoryId": "2",
+        "thumbnail": "",
+        "title": "T-Shirt Design",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "23",
+        "categoryId": "3",
+        "thumbnail": "",
+        "title": "Fiver",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "24",
+        "categoryId": "3",
+        "thumbnail": "",
+        "title": "Upwork",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "25",
+        "categoryId": "3",
+        "thumbnail": "",
+        "title": "Freelancer",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "26",
+        "categoryId": "4",
+        "thumbnail": "",
+        "title": "In Design",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "27",
+        "categoryId": "4",
+        "thumbnail": "",
+        "title": "Web Design",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "28",
+        "categoryId": "4",
+        "thumbnail": "",
+        "title": "Figma",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "29",
+        "categoryId": "4",
+        "thumbnail": "",
+        "title": "Adobe XD",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "30",
+        "categoryId": "5",
+        "thumbnail": "",
+        "title": "React JS",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "31",
+        "categoryId": "5",
+        "thumbnail": "",
+        "title": "Angular",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "32",
+        "categoryId": "5",
+        "thumbnail": "",
+        "title": "Laravel",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "33",
+        "categoryId": "5",
+        "thumbnail": "",
+        "title": "Node JS",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "34",
+        "categoryId": "5",
+        "thumbnail": "",
+        "title": "Express",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "35",
+        "categoryId": "5",
+        "thumbnail": "",
+        "title": "Mongo DB",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "36",
+        "categoryId": "6",
+        "thumbnail": "",
+        "title": "Social Media marketing (SMM)",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "37",
+        "categoryId": "6",
+        "thumbnail": "",
+        "title": "Google Ad",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "38",
+        "categoryId": "6",
+        "thumbnail": "",
+        "title": "Search Engine Optimization (SEO)",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "39",
+        "categoryId": "7",
+        "thumbnail": "",
+        "title": "MS Office Application",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "40",
+        "categoryId": "7",
+        "thumbnail": "",
+        "title": "Google Office Suite",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "41",
+        "categoryId": "8",
+        "thumbnail": "",
+        "title": "English",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "42",
+        "categoryId": "8",
+        "thumbnail": "",
+        "title": "Chinese",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    },
+    {
+        "id": "43",
+        "categoryId": "8",
+        "thumbnail": "",
+        "title": "Arabic",
+        "description": "",
+        "duration": "6",
+        "ratings": "5",
+        "totalEnrolled": "1000"
+    }
+]
+
+
