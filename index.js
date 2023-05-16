@@ -1,11 +1,13 @@
 const express = require('express')
 const app = express()
+const cors = require('cors')
 const port = process.env.PORT || 5000
 
 const category = require('./api/category.json')
 const courses = require('./api/courses.json')
 const blog = require('./api/blog.json')
 
+app.use(cors())
 
 app.get('/', (req, res) => {
     res.send('server is start')
