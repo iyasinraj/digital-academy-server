@@ -1,0 +1,14 @@
+[
+    {
+        "categoryId": "1",
+        "categoryName": "Web Development"
+    },
+    {
+        "categoryId": "2",
+        "categoryName": "Graphics Design"
+    },
+    {
+        "categoryId": "3",
+        "categoryName": "Video Editing"
+    }
+]
