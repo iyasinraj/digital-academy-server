@@ -2,7 +2,7 @@
     {
         "id": "1",
         "categoryId": "1",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/LhQzFyZ",
         "price": "5000",
         "title": "Cinematography",
         "description": "",
@@ -13,7 +13,7 @@
     {
         "id": "2",
         "categoryId": "1",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/LYxjyT5",
         "price": "5000",
         "title": "Videography",
         "description": "",
@@ -24,7 +24,7 @@
     {
         "id": "3",
         "categoryId": "1",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/xFXLbPk",
         "price": "5000",
         "title": "Screenwriting and Scripting",
         "description": "",
@@ -35,7 +35,7 @@
     {
         "id": "4",
         "categoryId": "1",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/VSTPqSv",
         "price": "5000",
         "title": "Video Production",
         "description": "",
@@ -46,7 +46,7 @@
     {
         "id": "5",
         "categoryId": "1",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/JRPYFP4",
         "price": "5000",
         "title": "Video Editing",
         "description": "",
@@ -57,7 +57,7 @@
     {
         "id": "6",
         "categoryId": "1",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/GTMXxym",
         "price": "5000",
         "title": "Documentary Film Making",
         "description": "",
@@ -68,7 +68,7 @@
     {
         "id": "7",
         "categoryId": "1",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/LSTp6XZ",
         "price": "5000",
         "title": "Video Lighting",
         "description": "",
@@ -79,7 +79,7 @@
     {
         "id": "8",
         "categoryId": "1",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/ryW07bx",
         "price": "5000",
         "title": "Digital Camera Functionality",
         "description": "",
@@ -90,7 +90,7 @@
     {
         "id": "9",
         "categoryId": "1",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/jTqWdgK",
         "price": "5000",
         "title": "Storytelling",
         "description": "",
@@ -101,9 +101,9 @@
     {
         "id": "10",
         "categoryId": "1",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/NrhS9ZL",
         "price": "5000",
-        "title": "Adobe Premiere",
+        "title": "Adobe Premiere Proo",
         "description": "",
         "duration": "6",
         "ratings": "5",
@@ -112,7 +112,7 @@
     {
         "id": "11",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/dKd44GT",
         "price": "5000",
         "title": "Canva",
         "description": "",
@@ -123,7 +123,7 @@
     {
         "id": "12",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/zRN7M78",
         "price": "5000",
         "title": "Graphics Design",
         "description": "",
@@ -134,7 +134,7 @@
     {
         "id": "13",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/XSbdgmL",
         "price": "5000",
         "title": "Vector Graphics",
         "description": "",
@@ -145,7 +145,7 @@
     {
         "id": "14",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/Vx6jGSR",
         "price": "5000",
         "title": "Photoshop",
         "description": "",
@@ -156,7 +156,7 @@
     {
         "id": "15",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/tJKZJDV",
         "price": "5000",
         "title": "Logo Design",
         "description": "",
@@ -167,7 +167,7 @@
     {
         "id": "16",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/jVVJm40",
         "price": "5000",
         "title": "Adobe Illustrator",
         "description": "",
@@ -178,7 +178,7 @@
     {
         "id": "17",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/99hM2cY",
         "price": "5000",
         "title": "Photoshop Retouching",
         "description": "",
@@ -189,7 +189,7 @@
     {
         "id": "18",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/L5xR4Gb",
         "price": "5000",
         "title": "Technical Drawing",
         "description": "",
@@ -200,7 +200,7 @@
     {
         "id": "19",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/jVVJm40",
         "price": "5000",
         "title": "Illustration",
         "description": "",
@@ -211,7 +211,7 @@
     {
         "id": "20",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/K6sBH3f",
         "price": "5000",
         "title": "Design Theory",
         "description": "",
@@ -222,7 +222,7 @@
     {
         "id": "21",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/jH6Fn39",
         "price": "5000",
         "title": "AI Art Generation",
         "description": "",
@@ -233,7 +233,7 @@
     {
         "id": "22",
         "categoryId": "2",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/Byt7L5H",
         "price": "5000",
         "title": "T-Shirt Design",
         "description": "",
@@ -244,7 +244,7 @@
     {
         "id": "23",
         "categoryId": "3",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/Q6KmBTD",
         "price": "5000",
         "title": "Fiver",
         "description": "",
@@ -255,7 +255,7 @@
     {
         "id": "24",
         "categoryId": "3",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/ykDMzgQ",
         "price": "5000",
         "title": "Upwork",
         "description": "",
@@ -266,7 +266,7 @@
     {
         "id": "25",
         "categoryId": "3",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/LQSkTQV",
         "price": "5000",
         "title": "Freelancer",
         "description": "",
@@ -277,7 +277,7 @@
     {
         "id": "26",
         "categoryId": "4",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/t8Zqp0G",
         "price": "5000",
         "title": "In Design",
         "description": "",
@@ -288,7 +288,7 @@
     {
         "id": "27",
         "categoryId": "4",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/SfyPvvt",
         "price": "5000",
         "title": "Web Design",
         "description": "",
@@ -299,7 +299,7 @@
     {
         "id": "28",
         "categoryId": "4",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/0nBBvmN",
         "price": "5000",
         "title": "Figma",
         "description": "",
@@ -310,7 +310,7 @@
     {
         "id": "29",
         "categoryId": "4",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/R6KfqKq",
         "price": "5000",
         "title": "Adobe XD",
         "description": "",
@@ -321,7 +321,7 @@
     {
         "id": "30",
         "categoryId": "5",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/G9TrmxZ",
         "price": "5000",
         "title": "React JS",
         "description": "",
@@ -332,7 +332,7 @@
     {
         "id": "31",
         "categoryId": "5",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/q1sZTt0",
         "price": "5000",
         "title": "Angular",
         "description": "",
@@ -343,7 +343,7 @@
     {
         "id": "32",
         "categoryId": "5",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/7RMHzkx",
         "price": "5000",
         "title": "Laravel",
         "description": "",
@@ -354,7 +354,7 @@
     {
         "id": "33",
         "categoryId": "5",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/XFnFXjY",
         "price": "5000",
         "title": "Node JS",
         "description": "",
@@ -365,7 +365,7 @@
     {
         "id": "34",
         "categoryId": "5",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/1m0FppS",
         "price": "5000",
         "title": "Express",
         "description": "",
@@ -376,7 +376,7 @@
     {
         "id": "35",
         "categoryId": "5",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/3cVTHFm",
         "price": "5000",
         "title": "Mongo DB",
         "description": "",
@@ -387,7 +387,7 @@
     {
         "id": "36",
         "categoryId": "6",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/FbYx2hR",
         "price": "5000",
         "title": "Social Media marketing (SMM)",
         "description": "",
@@ -398,7 +398,7 @@
     {
         "id": "37",
         "categoryId": "6",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/XtpsYN5",
         "price": "5000",
         "title": "Google Ad",
         "description": "",
@@ -409,7 +409,7 @@
     {
         "id": "38",
         "categoryId": "6",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/y5fTBfR",
         "price": "5000",
         "title": "Search Engine Optimization (SEO)",
         "description": "",
@@ -420,7 +420,7 @@
     {
         "id": "39",
         "categoryId": "7",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/JzxCWSW",
         "price": "5000",
         "title": "MS Office Application",
         "description": "",
@@ -431,7 +431,7 @@
     {
         "id": "40",
         "categoryId": "7",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/9bs6xqk",
         "price": "5000",
         "title": "Google Office Suite",
         "description": "",
@@ -442,7 +442,7 @@
     {
         "id": "41",
         "categoryId": "8",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/4g290Tj",
         "price": "5000",
         "title": "English",
         "description": "",
@@ -453,7 +453,7 @@
     {
         "id": "42",
         "categoryId": "8",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/0ZprGv1",
         "price": "5000",
         "title": "Chinese",
         "description": "",
@@ -464,7 +464,7 @@
     {
         "id": "43",
         "categoryId": "8",
-        "thumbnail": "",
+        "thumbnail": "https://ibb.co/NKrL4ST",
         "price": "5000",
         "title": "Arabic",
         "description": "",
