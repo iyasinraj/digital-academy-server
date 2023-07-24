@@ -2,41 +2,41 @@
     {
         "categoryId": "1",
         "title": "Film Making",
-        "img": "https://ibb.co/cvsyR2K"
+        "img": "https://i.ibb.co/RSJgtQG/film-making.jpg"
     },
     {
         "categoryId": "2",
         "title": "Design",
-        "img": "https://ibb.co/YP2tW0B"
+        "img": "https://i.ibb.co/mbJHBN5/design.jpg"
     },
     {
         "categoryId": "3",
         "title": "Freelancing",
-        "img": "https://ibb.co/JBLhs4q"
+        "img": "https://i.ibb.co/mDsxcw0/freelancing.jpg"
     },
     {
         "categoryId": "4",
         "title": "UX/UI Design",
-        "img": "https://ibb.co/p3wwTzV"
+        "img": "https://i.ibb.co/XzLLPs0/uiux.jpg"
     },
     {
         "categoryId": "5",
         "title": "Web Development",
-        "img": "https://ibb.co/tXPPvJc"
+        "img": "https://i.ibb.co/gVFFfRw/webdev.jpg"
     },
     {
         "categoryId": "6",
         "title": "Digital Marketing",
-        "img": "https://ibb.co/vd2zSpw"
+        "img": "https://i.ibb.co/kDYctjH/social.jpg"
     },
     {
         "categoryId": "7",
         "title": "Office Application",
-        "img": "https://ibb.co/RNDpdgs"
+        "img": "https://i.ibb.co/7Ggbx0x/msoffice.png"
     },
     {
         "categoryId": "8",
         "title": "Language",
-        "img": "https://ibb.co/J2pv98J"
+        "img": "https://i.ibb.co/Mp1cmK0/language.jpg"
     }
 ]
